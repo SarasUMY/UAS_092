@@ -203,4 +203,4 @@ namespace UAS_092
 //2.) Algoritma Singly Linked List karena tidak ada batasan
 //3.) Stack array dan stack linked list
 //4.) Pop and Push
-//5.) a. b.
+//5.) a.5 b.
